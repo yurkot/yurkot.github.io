@@ -1,4 +1,4 @@
 ## Welcome!
 
-Under development!
-Placeholder to present projects. 
+- This projects presentations site is under development
+- TBD
