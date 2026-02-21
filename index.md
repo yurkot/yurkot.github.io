@@ -1,4 +1,4 @@
 ## Welcome!
 
-- This projects presentations site is under development
-- TBD
+- The site is under development
+- More to follow ...
